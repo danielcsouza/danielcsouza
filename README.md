@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá 👋! Seja bem vindo ao meu perfil!
 
-<!--
-**danielcsouza/danielcsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Atuo como Desenvolvedor Web com OutSourcing (Terceirização), atuando como PJ Home Office.
+- 🚀 Trabalho com desenvolvimento de sistemas web e mobile.
+- Especializações: Desenvolvedor FrontEnd (HTML5, CSS3, Java Script, Jquery, Angular,React)
+- Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Muito dos meus códigos são privados por questões de contratual. :)
+
+
+#### Contatos
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielcsouza)](https://github.com/danielcsouza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcsouza/)](https://www.linkedin.com/in/danielcsouza/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/dcs_ti)](https://twitter.com/dcs_ti)
