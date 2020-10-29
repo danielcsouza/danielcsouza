@@ -2,10 +2,10 @@
 
 Um pouco sobre mim:
 
-- 🔭 Atuo como Desenvolvedor Web com OutSourcing (Terceirização), atuando como PJ Home Office.
-- 🚀 Trabalho com desenvolvimento de sistemas web e mobile.
-- Especializações: Desenvolvedor FrontEnd (HTML5, CSS3, Java Script, Jquery, Angular,React)
-- Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
+- :muscle: Atuo como Desenvolvedor Web com OutSourcing (Terceirização), atuando como PJ Home Office.
+-  Trabalho com desenvolvimento de sistemas web e mobile.
+- :computer: Especializações: Desenvolvedor FrontEnd (HTML5, CSS3, Java Script, Jquery, Angular,React)
+- :bulb: Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
 
 Muito dos meus repositórios são privados por questões contratuais. :)
 
