@@ -7,7 +7,7 @@ Um pouco sobre mim:
 - Especializações: Desenvolvedor FrontEnd (HTML5, CSS3, Java Script, Jquery, Angular,React)
 - Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
 
-Muito dos meus códigos são privados por questões contratuais. :)
+Muito dos meus repositórios são privados por questões contratuais. :)
 
 
 #### Contatos
