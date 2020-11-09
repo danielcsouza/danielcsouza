@@ -8,6 +8,7 @@ Um pouco sobre mim:
 - :bulb: Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
 
 Muito dos meus repositórios são privados por questões contratuais. :)
+E a empresa em que presto serviços usa BitBucket. Por isso meus commits diários são lá. :)
 
 
 #### Contatos
