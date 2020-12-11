@@ -12,7 +12,6 @@ E a empresa em que presto serviços usa BitBucket. Por isso meus commits diário
 
 
 #### Contatos
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielcsouza)](https://github.com/danielcsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcsouza/)](https://www.linkedin.com/in/danielcsouza/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/dcs_ti)](https://twitter.com/dcs_ti)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.carlos.souza@gmail.com)](mailto:daniel.carlos.souza@gmail.com)
