@@ -8,8 +8,8 @@ Um pouco sobre mim:
 - :bulb: Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
 
 
-Muito dos meus repositórios são privados por questões contratuais. :)
-E a empresa em que presto serviços usa BitBucket. Por isso meus commits diários são lá. :)
+Muito dos meus repositórios são privados por questões contratuais. :)<br>
+E a empresa em que presto serviços usa BitBucket. <br>Por isso meus commits diários são lá. :)
 
 
 
@@ -22,7 +22,7 @@ E a empresa em que presto serviços usa BitBucket. Por isso meus commits diário
 <br>
 <div align="center">
   <a href="https://github.com/danielcsouza">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsouza&layout=compact&langs_count=25&theme=dark&custom_title=Linguagens usadas"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsouza&layout=compact&langs_count=10&theme=dark&custom_title=Algumas Linguagens"/>
   </a>
 </div>
 <br>
