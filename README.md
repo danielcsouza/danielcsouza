@@ -22,7 +22,7 @@ E a empresa em que presto servi√ßos usa BitBucket. <br>Por isso meus commits di√
 <br>
 <div align="center">
   <a href="https://github.com/danielcsouza">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsouza&layout=compact&langs_count=10&theme=dark&custom_title=Algumas%20Linguagens"/>
+ 
   </a>
 </div>
 <br>
