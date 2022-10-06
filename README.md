@@ -19,14 +19,7 @@ E a empresa em que presto servi√ßos usa BitBucket. <br>Por isso meus commits di√
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.carlos.souza@gmail.com)](mailto:daniel.carlos.souza@gmail.com)
 
 
-<br>
-<div align="center">
-  <a href="https://github.com/danielcsouza">
- <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcsouza&layout=compact&langs_count=10&theme=dark&custom_title=Algumas%20Linguagens"/>
-  </a>
-</div>
-<br>
-  
+
   <div align="center" style="display: inline_block">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
