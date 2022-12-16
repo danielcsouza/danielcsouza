@@ -36,8 +36,5 @@ E a empresa em que presto servi√ßos usa BitBucket. <br>Por isso meus commits di√
   <br><br>
 
    <img align="center" alt="Azure Fundamentals" title="Fundamentals" height="200" src="https://d33wubrfki0l68.cloudfront.net/eaa1d3e164203a35665c7356e350b97d4728b3fe/d3b1f/img/badge_az900.png">
-(https://www.credly.com/badges/bdcb1f93-0ed4-4660-8ca2-1466b1afdaf7)
-  
-   
   
 </div>
