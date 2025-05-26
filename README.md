@@ -6,7 +6,7 @@ Um pouco sobre mim:
 - :iphone: Trabalho com desenvolvimento de sistemas web e mobile.
 - :computer: Desenvolvedor FrontEnd (HTML, CSS3, Java Script, Jquery, Angular,React)
 - :bulb: Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
-- Connsultor Dell Expert
+- Consultor Dell Expert
 
 
 Muito dos meus repositórios são privados por questões contratuais. :)<br>
