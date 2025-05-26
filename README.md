@@ -6,6 +6,7 @@ Um pouco sobre mim:
 - :iphone: Trabalho com desenvolvimento de sistemas web e mobile.
 - :computer: Desenvolvedor FrontEnd (HTML, CSS3, Java Script, Jquery, Angular,React)
 - :bulb: Desenvolvedor BackEnd ( PHP, ASP.NET C# ,VB.NET, Java, NodeJs, Python )
+- Connsultor Dell Expert
 
 
 Muito dos meus repositórios são privados por questões contratuais. :)<br>
@@ -36,5 +37,6 @@ E a empresa em que presto serviços usa BitBucket. <br>Por isso meus commits di�
   <br><br>
 
    <img align="center" alt="Azure Fundamentals" title="Fundamentals" height="200" src="https://d33wubrfki0l68.cloudfront.net/eaa1d3e164203a35665c7356e350b97d4728b3fe/d3b1f/img/badge_az900.png">
+   <img align="center" alt="Consultor Dell Experts Network" title="Consultor Dell Experts Network" height="200" src="https://play-lh.googleusercontent.com/Jpwtu67B5PgCBVjara6GATiGhEuWFe4ZXwgtrXzuUXgaK04QynFAz4IstlfZknMCeQ=w480-h960-rw">
   
 </div>
