@@ -9,8 +9,7 @@ Um pouco sobre mim:
 - 🖥️ Consultor Dell Expert
 
 
-Muito dos meus repositórios são privados por questões contratuais. :)<br>
-E a empresa em que presto serviços usa BitBucket. <br>Por isso meus commits diários são lá. :)
+Muito dos meus repositórios são privados por questões contratuais. :)
 
 
 
