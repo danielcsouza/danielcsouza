@@ -36,7 +36,11 @@ Atualmente atuo como **Desenvolvedor Sênior em regime de Outsourcing (PJ/Home O
 
 **Flurio** — Plataforma de controle financeiro pessoal desenvolvida com ASP.NET, Blazor WebAssembly e Azure.
 
+🌐 https://flurio.com.br
+
 **Daniel Sistemas** — Empresa focada no desenvolvimento de software sob medida, APIs, integrações e soluções web.
+
+🌐 https://danielsistemas.com.br
 
 > Grande parte dos meus repositórios são privados devido a contratos de confidencialidade (NDA). Por esse motivo, apenas uma parte do meu trabalho está disponível publicamente.
 
