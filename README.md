@@ -67,7 +67,6 @@ Atualmente atuo como **Desenvolvedor Sênior em regime de Outsourcing (PJ/Home O
 <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Node.js" title="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="React" title="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Blazor" title="Blazor" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.png">
 <img align="center" alt="Python" title="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="C#" title="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="PHP" title="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
